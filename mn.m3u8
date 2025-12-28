@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# Low quality
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,CODECS="avc1.42E01E,mp4a.40.2"
+https://raw.githubusercontent.com/pothabattulavinod/adc3/refs/heads/main/mnl/playlist.m3u8
